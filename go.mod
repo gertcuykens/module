@@ -1,3 +1,3 @@
-module github.com/gertcuykens/module/v5
+module github.com/gertcuykens/module/v6
 
-go 1.14
+go 1.13
